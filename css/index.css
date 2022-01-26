@@ -253,8 +253,16 @@ p2{
     margin-left: 19%;
 }
 /* VALORES */
-table, td{
-    border: #253243 solid 1px;
+.par{
+    background-color: gray;
+}
+
+.inpar{
+    background-color: wheat;
+}
+
+table,td{
+    border: black solid 1px;
     margin-left: 40%;
 }
 
